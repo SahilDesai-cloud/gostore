@@ -1,0 +1,27 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test output and coverage
+*.test
+*.out
+coverage.html
+coverage.txt
+
+# Go workspace and module cache
+vendor/
+go.work
+go.work.sum
+
+# Build artifacts
+dist/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / tool state
+.claude/
