@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/require"
-	"github.com/user/gostore/internal/record"
+	"github.com/SahilDesai-cloud/gostore/internal/record"
 )
 
 func buildTable(t *testing.T, dir string, n int, bitsPerKey int) string {

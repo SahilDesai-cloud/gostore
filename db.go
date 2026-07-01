@@ -11,10 +11,10 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/user/gostore/internal/record"
-	"github.com/user/gostore/internal/skiplist"
-	"github.com/user/gostore/internal/sstable"
-	"github.com/user/gostore/internal/wal"
+	"github.com/SahilDesai-cloud/gostore/internal/record"
+	"github.com/SahilDesai-cloud/gostore/internal/skiplist"
+	"github.com/SahilDesai-cloud/gostore/internal/sstable"
+	"github.com/SahilDesai-cloud/gostore/internal/wal"
 )
 
 // ErrClosed is returned when an operation is attempted on a closed DB.

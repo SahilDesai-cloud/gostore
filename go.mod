@@ -1,4 +1,4 @@
-module github.com/user/gostore
+module github.com/SahilDesai-cloud/gostore
 
 go 1.22
 

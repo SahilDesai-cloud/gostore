@@ -37,8 +37,8 @@ import (
 	"math"
 	"os"
 
-	"github.com/user/gostore/internal/bloom"
-	"github.com/user/gostore/internal/record"
+	"github.com/SahilDesai-cloud/gostore/internal/bloom"
+	"github.com/SahilDesai-cloud/gostore/internal/record"
 )
 
 // IndexInterval is the stride of the sparse index: one index entry per N data

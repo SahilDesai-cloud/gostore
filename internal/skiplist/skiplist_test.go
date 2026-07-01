@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/require"
-	"github.com/user/gostore/internal/record"
+	"github.com/SahilDesai-cloud/gostore/internal/record"
 )
 
 func TestPutAndGet(t *testing.T) {

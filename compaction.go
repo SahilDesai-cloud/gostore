@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/user/gostore/internal/record"
-	"github.com/user/gostore/internal/sstable"
+	"github.com/SahilDesai-cloud/gostore/internal/record"
+	"github.com/SahilDesai-cloud/gostore/internal/sstable"
 )
 
 // needsCompaction reports whether background compaction should run.

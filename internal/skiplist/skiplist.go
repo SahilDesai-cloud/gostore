@@ -9,7 +9,7 @@ import (
 	"bytes"
 	"math/rand"
 
-	"github.com/user/gostore/internal/record"
+	"github.com/SahilDesai-cloud/gostore/internal/record"
 )
 
 const (

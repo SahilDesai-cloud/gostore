@@ -4,9 +4,9 @@ import (
 	"bytes"
 	"container/heap"
 
-	"github.com/user/gostore/internal/record"
-	"github.com/user/gostore/internal/skiplist"
-	"github.com/user/gostore/internal/sstable"
+	"github.com/SahilDesai-cloud/gostore/internal/record"
+	"github.com/SahilDesai-cloud/gostore/internal/skiplist"
+	"github.com/SahilDesai-cloud/gostore/internal/sstable"
 )
 
 // Iterator is a merged, deduped, tombstone-filtered ordered view of the

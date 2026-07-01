@@ -7,8 +7,8 @@ import (
 	"io"
 	"os"
 
-	"github.com/user/gostore/internal/bloom"
-	"github.com/user/gostore/internal/record"
+	"github.com/SahilDesai-cloud/gostore/internal/bloom"
+	"github.com/SahilDesai-cloud/gostore/internal/record"
 )
 
 const footerSize = 48
