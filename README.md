@@ -1,5 +1,7 @@
 # gostore
 
+**Live demo:** https://gostore-production-5f4a.up.railway.app
+
 A persistent, crash-safe key-value store built from scratch on a **Log-Structured Merge (LSM) tree** in Go. Implemented as a single-node embeddable library — no network layer, no CGo, no external dependencies beyond the standard library (plus `testify` for tests).
 
 ## Features
