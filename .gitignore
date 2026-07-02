@@ -25,3 +25,7 @@ Thumbs.db
 
 # Editor / tool state
 .claude/
+
+# Database data directories
+gostore-data/
+*-data/
